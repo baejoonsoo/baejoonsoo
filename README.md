@@ -1,8 +1,11 @@
-#💻 배준수 | 고등학교 1학년 | [email](baejoonsoo21@gmail.com)
+# 💻 배준수 | 고등학교 1학년 | <a href="mailto:artns25@naver.com">e-mail</a>
+<p>대덕소프트웨어마이스터고등학교에서 프론트엔드를 공부하고있는 배준수입니다.<p/>
 
-``` python
-print('hello')
-```
+
+
+[![baejoonsoo's github stats](https://github-readme-stats.vercel.app/api?username=baejoonsoo&show_icons=true&hide_border=true&count_private=true)](https://github.com/baejoonsoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejoonsoo&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **baejoonsoo/baejoonsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
