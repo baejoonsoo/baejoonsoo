@@ -1,4 +1,4 @@
-# 💻 배준수 | 고등학교 1학년 | <a href="mailto:artns25@dsm.hs.kr">e-mail</a>
+# 💻 배준수 | 고등학교 1학년 | <a href="mailto:artns25@naver.com">e-mail</a>
 <p>대덕소프트웨어마이스터고등학교에서 프론트엔드를 공부하고있는 배준수입니다.<p/>
 
 
