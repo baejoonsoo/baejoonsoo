@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=BaeJoonSoo&fontSize=50&fontAlign=80&fontAlignY=30&animation=twinkling&desc=FrontEnd%20Developer&descAlign=85&descAlignY=50&fontColor=FFFFFF)
 
 
-
 [![baejoonsoo's github stats](https://github-readme-stats.vercel.app/api?username=baejoonsoo&show_icons=true&hide_border=true&count_private=true)](https://github.com/baejoonsoo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejoonsoo&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
