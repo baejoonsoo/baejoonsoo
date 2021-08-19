@@ -1,7 +1,5 @@
-# 💻 배준수 | 고등학교 1학년 | <a href="mailto:artns25@naver.com">e-mail</a>
-<p>대덕SW마이스터고등학교에서 프론트엔드를 공부하고있는 배준수입니다.<p/>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=BaeJoonSoo&fontSize=50&fontAlign=80&fontAlignY=30&animation=twinkling&desc=FrontEnd%20Developer&descAlign=85&descAlignY=50&fontColor=FFFFFF)
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=BaeJoonSoo&fontSize=50&rotate=20&fontAlign=70&fontAlignY=30&animation=twinkling)
 
 
 [![baejoonsoo's github stats](https://github-readme-stats.vercel.app/api?username=baejoonsoo&show_icons=true&hide_border=true&count_private=true)](https://github.com/baejoonsoo)
