@@ -1,6 +1,8 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=BaeJoonSoo&fontSize=50&fontAlign=80&fontAlignY=30&animation=twinkling&desc=FrontEnd%20Developer&descAlign=85&descAlignY=50&fontColor=FFFFFF"/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaejoonsoo&count_bg=%23FF90CD&title_bg=%23ECEAEA&icon=instacart.svg&icon_color=%23FFBA56&title=hits&edge_flat=false"/></a>
+<!--   <a href="https://hits.seeyoufarm.com"> -->
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaejoonsoo&count_bg=%23FF90CD&title_bg=%23ECEAEA&icon=instacart.svg&icon_color=%23FFBA56&title=hits&edge_flat=false"/>
+<!--   </a> -->
   
   
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=baejoonsoo&show_icons=true&include_all_commits=true&theme=material-palenight"/>
