@@ -5,7 +5,8 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=baejoonsoo&show_icons=true&include_all_commits=true&theme=material-palenight"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejoonsoo&hide=r,jupyter%20notebook,c%23&count_private=true&langs_count=10&theme=material-palenight"/>
-
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub .com%2Fbaejoonsoo&count_bg=%23FF90CD&title_bg=%23ECEAEA&icon=instacart.svg&icon_color=%23FFBA56&title=hits&edge_flat=false"/></a>
 
   ## Language
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
