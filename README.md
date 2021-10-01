@@ -7,6 +7,55 @@
   <br>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaejoonsoo&count_bg=%23FF90CD&title_bg=%23ECEAEA&icon=instacart.svg&icon_color=%23FFBA56&title=visitors&edge_flat=false"/>
  
+  <details>
+    <summary>Details</summary>
+    
+  # Who am I?
+    
+  대덕소프트웨어마이스터고등학교에 7기로 재학 중입니다. <br/>
+  reactJS로 front-end를 공부하고 있으며 typeScript에도 관심을 가지고 조금씩 배워나가는 중입니다.
+    
+  
+  # Language
+    
+  C/C++은 알고리즘 문제를 해결할 때 주로 사용하고 있습니다.
+    
+  <br/>
+    
+  javaScript와 HTML,CSS은 front-end 개발에 사용하고 있으며 <br/>
+  style은 styled-component를 이용해 적용하고 있습니다.
+    
+  <br/>
+    
+  최근 typeScript에 관심을 가졌고 이를 공부해 보고 있습니다
+  
+  # Framwork & Platform & Library
+  
+  현재 react를 사용하고 있으며 <br/>
+  npm보다는 yarn을 주로 이용하고 있습니다
+  
+   # Tool
+    
+  visual studio는 ubuntu 사용 이전 C/C++ 코드 작성을 위해 사용하였으며 현재는 잘 사용하지 않고 있습니다.
+    
+  <br/>
+    
+  vim 또한 사용하긴 하나 주로 visual studio code를 이용하고 있습니다.
+    
+  <br/>
+    
+  협엽을 위해 Notion과 slack를 사용하고 있습니다.
+     
+  # OS
+    
+  2021년 초에는 windows 환경에서 개발을 하였으나 <br/>
+  현재는 모든 프로그래밍은 UBUNTU 환경에서 개발을 이어나가고 있습니다
+    
+  </details>
+  
+  <details>
+    <summary>simple</summary>
+  
   ## Language
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,4 +84,5 @@
   ## OS
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  </details>
 </div>
