@@ -46,7 +46,7 @@
     
   협업을 위해 Notion과 slack를 사용하고 있습니다.
      
-  # OS
+  # Operating System
     
   2021년 초에는 windows 환경에서 개발을 하였으나 <br/>
   현재는 모든 프로그래밍은 UBUNTU 환경에서 개발을 이어나가고 있습니다
@@ -79,7 +79,7 @@
   ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-  ## OS
+  ## Operating System
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   </details>
