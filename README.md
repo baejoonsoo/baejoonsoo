@@ -44,7 +44,7 @@
     
   <br/>
     
-  협엽을 위해 Notion과 slack를 사용하고 있습니다.
+  협업을 위해 Notion과 slack를 사용하고 있습니다.
      
   # OS
     
@@ -67,7 +67,6 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![YARN](https://img.shields.io/badge/yarn-%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-
   ## Tool
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -79,7 +78,6 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
 
   ## OS
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
