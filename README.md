@@ -1,7 +1,7 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=BaeJoonSoo&fontSize=50&fontAlign=80&fontAlignY=30&animation=twinkling&desc=FrontEnd%20Developer&descAlign=85&descAlignY=50&fontColor=FFFFFF"/>
   
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=baejoonsoo&show_icons=true&include_all_commits=true&theme=material-palenight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baejoonsoo&show_icons=true&include_all_commits=true&theme=material-palenight"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejoonsoo&hide=r,jupyter%20notebook,c%23&count_private=true&langs_count=10&theme=material-palenight"/> 
   <br>
