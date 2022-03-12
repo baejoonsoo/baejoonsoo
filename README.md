@@ -12,8 +12,8 @@
     
   # Who am I?
     
-  대덕소프트웨어마이스터고등학교에 7기로 재학 중 입니다. <br/>
-  reactJS로 front-end를 공부하고 있습니다
+  대덕소프트웨어마이스터고등학교에 7기 2학년으로 재학 중 입니다. <br>
+  reactJS를 주로 사용하여 front-end를 공부하고 있습니다
     
   
   # Language
@@ -27,7 +27,7 @@
   
   # Framwork & Platform & Library
   
-  현재 react를 사용하고 있으며 <br/>
+  현재 react를 사용하고 있으며 <br>
   npm보다는 yarn을 주로 이용하고 있습니다
   
    # Tool
@@ -44,9 +44,9 @@
      
   # Operating System
     
-  2021년 초에는 windows를 <br/>
+  2021년 초에는 windows를 <br>
   이후 2022년 1월 초반까지 모든 프로그래밍은 Ubuntu 환경에서 개발을 이어나갔으며 <br/>
-  2022년 1년 후반부터 MacOS 환경에서 개발을 이어나가고 있습니다.
+  2022년 1월부터 MacOS 환경에서 개발을 이어나가고 있습니다.
     
   </details>
   
