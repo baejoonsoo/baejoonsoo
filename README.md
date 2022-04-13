@@ -63,6 +63,7 @@
 
   ## Framwork & Platform & Library
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+  ![NextJS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
   ![YARN](https://img.shields.io/badge/yarn-%23000000.svg?style=flat-square&logo=yarn&logoColor=white)
 
   ## Tool
