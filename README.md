@@ -22,12 +22,11 @@
     
   <br/>
     
-  javaScript와 HTML,CSS은 front-end 개발에 사용하고 있으며 <br/>
-  style은 styled-component를 이용해 적용하고 있습니다.
+  javaScript와 typeScript로 front-end 개발을 하고 있습니다.
   
   # Framwork & Platform & Library
   
-  현재 react를 사용하고 있으며 <br>
+  현재 react와 next를 사용하고 있으며
   npm보다는 yarn을 주로 이용하고 있습니다
   
    # Tool
@@ -57,6 +56,8 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
