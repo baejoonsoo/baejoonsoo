@@ -12,31 +12,23 @@
     
   # Who am I?
     
-  대덕소프트웨어마이스터고등학교에 7기 2학년으로 재학 중 입니다. <br>
-  reactJS를 주로 사용하여 front-end를 공부하고 있습니다
+  대덕SW마이스터고등학교에 2학년으로 재학 중 입니다.
+  <br>
+  nextJS를 주로 사용하여 front-end를 공부하고 있습니다
     
   
   # Language
     
-  C/C++은 알고리즘 문제를 해결할 때 주로 사용하고 있습니다.
-    
-  <br/>
-    
-  javaScript와 typeScript로 front-end 개발을 하고 있습니다.
+  typeScript로 front-end 개발을 하고 있습니다.
   
   # Framwork & Platform & Library
   
-  현재 react와 next를 사용하고 있으며
+  현재 next를 위주로 사용하고 있으며
+  <br/>
   npm보다는 yarn을 주로 이용하고 있습니다
   
-   # Tool
-    
-  visual studio는 ubuntu 사용 이전 C/C++ 코드 작성을 위해 사용하였으며 현재는 잘 사용하지 않고 있습니다.
-    
-  <br/>
-    
-  vim 또한 사용하긴 하나 주로 visual studio code를 이용하고 있습니다.
-    
+   # Tool  
+   visual studio code를 이용하고 개발하고 있습니다.
   <br/>
     
   협업을 위해 Notion과 slack를 사용하고 있습니다.
@@ -68,9 +60,6 @@
 
   ## Tool
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-  <br>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
   <br>
