@@ -14,18 +14,20 @@
     
   대덕SW마이스터고등학교에 2학년으로 재학 중 입니다.
   <br>
-  nextJS를 주로 사용하여 front-end를 공부하고 있습니다
+  nextJS를 주로 사용하여 front-end를 공부하고 있습니다.
     
   
   # Language
     
   typeScript로 front-end 개발을 하고 있습니다.
+    
+  알고리즘 문제 해결 시에느 프로그래머스와 같으 입출력이 요구되지 않는 경우 js를 입출력이 요구되는 경우 python을 차선으로 선택하여 해결하고 있습니다.
   
   # Framwork & Platform & Library
   
   현재 next를 위주로 사용하고 있으며
   <br/>
-  npm보다는 yarn을 주로 이용하고 있습니다
+  npm보다는 yarn을 주로 이용하고 있습니다.
   
    # Tool  
    visual studio code를 이용하고 개발하고 있습니다.
