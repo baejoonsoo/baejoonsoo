@@ -21,12 +21,13 @@
     
   typeScript로 front-end 개발을 하고 있습니다.
     
-  알고리즘 문제 해결 시에느 프로그래머스와 같으 입출력이 요구되지 않는 경우 js를 입출력이 요구되는 경우 python을 차선으로 선택하여 해결하고 있습니다.
+  알고리즘 문제 해결 시에는 프로그래머스와 같은 입력이 요구되지 않는 경우 js를<br>
+  입력이 요구되는 경우 python을 차선으로 선택하여 해결하고 있습니다.
   
   # Framwork & Platform & Library
   
   현재 next를 위주로 사용하고 있으며
-  <br/>
+  <br>
   npm보다는 yarn을 주로 이용하고 있습니다.
   
    # Tool  
@@ -38,7 +39,7 @@
   # Operating System
     
   2021년 초에는 windows를 <br>
-  이후 2022년 1월 초반까지 모든 프로그래밍은 Ubuntu 환경에서 개발을 이어나갔으며 <br/>
+  이후 2022년 1월 초반까지 모든 프로그래밍은 Ubuntu 환경에서 개발을 이어나갔으며 <br>
   2022년 1월부터 MacOS 환경에서 개발을 이어나가고 있습니다.
     
   </details>
@@ -50,10 +51,10 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![python](https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-
+  <br>
   ![JavaScript](https://img.shields.io/badge/javaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
+  <br>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
@@ -64,7 +65,7 @@
 
   ## Tool
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-  <br/>
+  <br>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
   ![GitKraken](https://img.shields.io/badge/GitKraken-121422.svg?style=flat-square&logo=GitKraken&logoColor=#179287)
