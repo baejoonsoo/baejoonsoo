@@ -26,7 +26,7 @@
   
   # Framwork & Platform & Library
   
-  현재 next를 위주로 사용하고 있으며
+  현재 next를 위주로 사용하고 있으며 react 또한 사용하고 있습니다
   <br>
   npm보다는 yarn을 주로 이용하고 있습니다.
   
