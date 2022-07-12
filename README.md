@@ -11,6 +11,8 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
+  ![Go](https://img.shields.io/badge/Go-%23039BE5.svg?style=for-the-badge&logo=Go&logoColor=white)
   <br>
   ![JavaScript](https://img.shields.io/badge/javaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,6 +27,8 @@
 
   ## Tool
   ![Visual Studio Code](https://img.shields.io/badge/VSCODE-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-1CDD8E.svg?style=for-the-badge&logo=PyCharm&logoColor=000000)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-FF2757.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000)
   <br>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
