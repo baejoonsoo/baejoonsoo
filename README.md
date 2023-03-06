@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Go-%23039BE5.svg?style=for-the-badge&logo=Go&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Go-%23039BE5.svg?style=for-the-badge&logo=Go&logoColor=white"> -->
   <br>
   <img src="https://img.shields.io/badge/javaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/typeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
