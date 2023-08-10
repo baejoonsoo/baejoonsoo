@@ -3,8 +3,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejoonsoo&langs_count=10&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&count_private=true" width=400px/>
   <br>
-  <img align="center" alt="My GitHub stats" src="https://github-readme-stats.qwerty541.vercel.app/api?username=baejoonsoo&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" width=400px/>
-  <br>
+  <img src=https://github-readme-stats.vercel.app/api?username=baejoonsoo&show_icons=true&theme=dracula>
+    <br>
   <br>
   
   ## Language
