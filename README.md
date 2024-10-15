@@ -8,12 +8,14 @@
   <br>
   
   ## Language
+  <!--
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E">
+  -->
 <!--   <img src="https://img.shields.io/badge/Go-%23039BE5.svg?style=for-the-badge&logo=Go&logoColor=white"> -->
-  <br>
+  <!--<br>-->
   <img src="https://img.shields.io/badge/javaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/typeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <br>
@@ -23,7 +25,7 @@
   ## Framwork & Platform & Library
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/yarn-%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/yarn-%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white"> -->
 
   ## Tool
   <img src="https://img.shields.io/badge/VSCODE-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -50,13 +52,13 @@
   <br>
   <br>
   
-  <a href="https://www.instagram.com/qownstn_618">
+<!--   <a href="https://www.instagram.com/qownstn_618">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://wnstn.tistory.com">
+  </a> -->
+<!--   <a href="https://wnstn.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
   <a href="mailto:baejoonsoo21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
+  </a> -->
 </div>
