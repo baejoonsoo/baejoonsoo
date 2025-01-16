@@ -30,7 +30,7 @@
   ## Tool
   <img src="https://img.shields.io/badge/VSCODE-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-1CDD8E.svg?style=for-the-badge&logo=PyCharm&logoColor=000000">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-FF2757.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000">
+<!--   <img src="https://img.shields.io/badge/IntelliJIDEA-FF2757.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000"> -->
   <br>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
