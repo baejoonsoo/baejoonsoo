@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=BaeJoonSoo&fontSize=50&fontAlign=80&fontAlignY=30&animation=twinkling&desc=Front-end%20Developer&descAlign=85&descAlignY=50&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=BaeJoonSoo&fontSize=50&fontAlign=80&fontAlignY=30&desc=Front-end%20Developer&descAlign=85&descAlignY=50&fontColor=FFFFFF"/>
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baejoonsoo&langs_count=10&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api?username=baejoonsoo&show_icons=true&theme=dracula)
